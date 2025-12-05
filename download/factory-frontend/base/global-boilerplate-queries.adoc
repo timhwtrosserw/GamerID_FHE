@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\download\factory-frontend\base\global-boilerplate-queries.adoc
+// Generated at: 2025-10-25T16:07:01.754Z
